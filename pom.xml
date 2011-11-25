@@ -35,6 +35,7 @@ THE SOFTWARE.
   <artifactId>list-command</artifactId>
   <version>0.1-SNAPSHOT</version>
   <packaging>hpi</packaging>
+  <url>http://wiki.jenkins-ci.org/display/JENKINS/List+Command+Plugin</url>
 
   <!-- get every artifact through maven.glassfish.org, which proxies all the artifacts that we need -->
   <repositories>
@@ -57,4 +58,9 @@ THE SOFTWARE.
       <url>http://maven.glassfish.org/content/groups/public/</url>
     </pluginRepository>
   </pluginRepositories>
+  <scm>
+    <connection>scm:git:ssh://github.com/jenkinsci/list-command-plugin.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/jenkinsci/list-command-plugin.git</developerConnection>
+    <url>https://github.com/jenkinsci/list-command-plugin</url>
+  </scm>
 </project>
