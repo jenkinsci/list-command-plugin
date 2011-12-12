@@ -33,7 +33,7 @@ THE SOFTWARE.
 
   <name>List Command Plugin</name>
   <artifactId>list-command</artifactId>
-  <version>0.2</version>
+  <version>0.3-SNAPSHOT</version>
   <packaging>hpi</packaging>
   <url>https://wiki.jenkins-ci.org/display/JENKINS/List+Command+Plugin</url>
 
